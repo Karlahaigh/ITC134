@@ -8,4 +8,4 @@ Now, I am modifying the file and I'm going to try adding and committing again.
 
 This is actually pretty darned cool :)
 
-Now we're making another change to the file and we're going to ask to see the difference.
+Now we made another change to this file and we're going to ask to see the difference.
