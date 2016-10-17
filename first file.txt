@@ -1,5 +1,5 @@
 
-This is a practice file. 
+This is the first file with which I will practice. 
 I'm practicng moving things using the command shell. 
 I wonder if it will be the same as it is for the author who is using a Mac...
 
